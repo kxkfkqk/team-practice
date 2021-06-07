@@ -1,0 +1,11 @@
+#users>.user-17{
+	/* color:blue; */
+	font-size: 20px;
+	font-style: italic;;
+	font-weight: bold;
+	text-align: center;
+	background:radial-gradient(ellipse at center,lightblue,white);
+}
+#users>.user-17:hover{
+	cursor: pointer;
+}
