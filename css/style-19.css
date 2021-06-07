@@ -1,0 +1,41 @@
+@charset "UTF-8";
+.user-19 {
+  width: 300px;
+  position: relative;
+  font-family: 微軟正黑體;
+  color: red;
+  -webkit-animation: ani 3s infinite;
+          animation: ani 3s infinite;
+  -webkit-animation-timing-function: linear;
+          animation-timing-function: linear;
+}
+
+@-webkit-keyframes ani {
+  0% {
+    -webkit-transform: translateX(0px) translateY(0px);
+            transform: translateX(0px) translateY(0px);
+  }
+  50% {
+    -webkit-transform: translateX(400px) translateY(0px);
+            transform: translateX(400px) translateY(0px);
+  }
+  100% {
+    -webkit-transform: translateX(0px) translateY(0px);
+            transform: translateX(0px) translateY(0px);
+  }
+}
+
+@keyframes ani {
+  0% {
+    -webkit-transform: translateX(0px) translateY(0px);
+            transform: translateX(0px) translateY(0px);
+  }
+  50% {
+    -webkit-transform: translateX(400px) translateY(0px);
+            transform: translateX(400px) translateY(0px);
+  }
+  100% {
+    -webkit-transform: translateX(0px) translateY(0px);
+            transform: translateX(0px) translateY(0px);
+  }
+}
