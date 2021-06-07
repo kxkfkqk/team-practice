@@ -1,0 +1,13 @@
+#users>.user-50{
+    position: relative;
+    animation: mymove 3s infinite alternate;
+}
+
+#users>.user-50-1{
+    position: relative;
+}
+
+@keyframes mymove {
+    from {left: 0px;color: blue;}
+    to {left: 200px;color: chartreuse;}
+  }
