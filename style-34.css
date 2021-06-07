@@ -1,9 +1,0 @@
-#users>.user-34 {
-    color: blue;
-    display: inline;
-}
-
-#users>.user-34:hover {
-    color: rgb(145, 27, 27);
-    font-size: 18px;
-}
