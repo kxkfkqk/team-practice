@@ -1,0 +1,11 @@
+#users>.user-35{
+    text-decoration: underline;
+    font-size: 18px;
+    width: 36px;
+    border-style:inset;
+    margin: 10px 0px 10px 0px;
+    cursor: pointer;
+}
+#users>.user-35:hover{
+    background-color: red;
+}
