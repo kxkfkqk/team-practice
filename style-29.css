@@ -1,0 +1,24 @@
+.user-29 {
+  text-align: center;
+  font-family: sans-serif;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid #558899;
+  border-radius: 5px;
+}
+
+.user-29:hover {
+  cursor: pointer;
+  background-color: #558899;
+  color: #fff;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.user-29 span {
+  display: none;
+}
+
+.user-29.clicked span {
+  display: inline-block;
+  margin-left: 5px;
+}
