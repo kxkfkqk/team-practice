@@ -1,1 +1,1 @@
-document.querySelector(".user-28").textContent="蟹老闆"
+document.querySelector(".user-28").textContent="這個專案好多人R"
