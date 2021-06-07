@@ -1,0 +1,12 @@
+#users >.user-7 {
+    width: 200px;
+	color:blue;
+    font-weight: bolder;
+}
+
+#users >.user-7:hover {
+    color:gray;
+    font-weight: bolder;
+    border-radius: 5px;
+    border: 1px solid;
+}
