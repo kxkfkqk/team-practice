@@ -1,1 +1,0 @@
-document.querySelector(".user-34").textContent = "張榮庭 Neo"
