@@ -1,0 +1,1 @@
+document.querySelector(".user-25").textContent="Ricetia";
