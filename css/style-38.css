@@ -1,0 +1,14 @@
+#users>.user-38{
+	color:black;
+    border: 1px red dotted;
+    border-radius: 15px;
+    padding: 5px;
+    transition: border-radius 0.5s;
+    width: fit-content;
+    cursor: pointer;
+}
+#users>.user-38:hover{
+    border-radius: 0;
+    color: red;
+    border: 1px black solid;
+}

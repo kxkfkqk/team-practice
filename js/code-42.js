@@ -1,0 +1,1 @@
+document.querySelector(".user-42").textContent = "^_^ 盈如";
