@@ -1,0 +1,1 @@
+document.querySelector(".user-52").textContent="月薪";
